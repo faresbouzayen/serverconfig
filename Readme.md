@@ -1,2 +1,2 @@
-# Use this script at your own risk. (For local use only)
+# Use this script at your own risk.
 Run the script as root with apache2 installed.
